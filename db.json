@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 6,
+      "message": "Change the network database ",
+      "attention": true,
+      "tech": "Jonh Doe",
+      "date": "2019-12-09T15:02:57.045Z"
+    },
+    {
+      "message": "Restat the database ",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-11-05T17:40:38.014Z",
+      "id": 8
+    },
+    {
+      "message": "Oh Hello There",
+      "attention": false,
+      "tech": "Leon Kennedy",
+      "date": "2020-06-03T06:04:20.726Z",
+      "id": 9
+    },
+    {
+      "message": "Don´t know what hes is doing",
+      "attention": false,
+      "tech": "Jhon Maicon",
+      "date": "2020-06-03T06:05:09.613Z",
+      "id": 10
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "smith",
+      "id": 2
+    },
+    {
+      "firstName": "Leon",
+      "lastName": "Kennedy",
+      "id": 3
+    },
+    {
+      "firstName": "Cloud",
+      "lastName": "Marvel",
+      "id": 5
+    },
+    {
+      "firstName": "Jhon",
+      "lastName": "Maicon",
+      "id": 6
+    }
+  ]
+}
