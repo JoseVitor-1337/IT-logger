@@ -31,12 +31,6 @@
 
 Open you Terminal and run this commands:
 
-> <span style="color:#02eddd">git clone https://github.com/JoseVitor-1337/it-logger.git</span>.
->
-> <span style="color:#02eddd">cd it-logger</span>.
->
-> <span style="color:#02eddd">npm install</span>.
-
 ```
 git clone https://github.com/JoseVitor-1337/it-logger.git -
 
