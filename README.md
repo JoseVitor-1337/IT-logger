@@ -31,7 +31,7 @@
 
 Open you Terminal and run this commands
 
-> `git clone https://github.com/JoseVitor-1337/it-logger.git` - to clone this repository
+`git clone https://github.com/JoseVitor-1337/it-logger.git` - to clone this repository
 >
 > `cd it-logger` - to go to directory
 >
