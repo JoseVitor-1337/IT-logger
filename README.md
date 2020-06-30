@@ -6,12 +6,12 @@
 
 ## Features and concepts used
 
-- ### Web
+<span style="font-size:1.2em">Web</span>.
 
-  - React.js
-  - React Hooks
-  - Redux
-  - json-server API
+- React.js
+- React Hooks
+- Redux
+- json-server API
 
 <br />
 
@@ -31,8 +31,14 @@
 
 Open you Terminal and run this commands:
 
+> <span style="color:#02eddd">git clone https://github.com/JoseVitor-1337/it-logger.git</span>.
+>
+> <span style="color:#02eddd">cd it-logger</span>.
+>
+> <span style="color:#02eddd">npm install</span>.
+
 ```
-git clone https://github.com/JoseVitor-1337/it-logger.git
+git clone https://github.com/JoseVitor-1337/it-logger.git -
 
 cd it-logger
 
