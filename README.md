@@ -4,7 +4,7 @@
 
 ## Website to register IT employees and add records that would be their tasks
 
-![It-Logger-System](https://github.com/JoseVitor-1337/it-logger/blob/master/captured.gif)
+![It-Logger-System](https://github.com/JoseVitor-1337/IT-logger/blob/master/captured.gif)
 
 ---
 
@@ -36,7 +36,7 @@
 Open you Terminal and run this commands:
 
 ```
-git clone https://github.com/JoseVitor-1337/it-logger.git
+git clone https://github.com/JoseVitor-1337/IT-logger.git
 
 cd it-logger
 
