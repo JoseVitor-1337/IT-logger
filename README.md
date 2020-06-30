@@ -21,20 +21,22 @@
 
 ### Prerequisites
 
-> Need have **_npm_** installed [Go Here to install](https://nodejs.org/en/)
+> Need have **npm** installed [Go Here to install](https://nodejs.org/en/)
 
-> Need have **_git_** installed [Go Here to install](https://git-scm.com/downloads)
+> Need have **git** installed [Go Here to install](https://git-scm.com/downloads)
 
 <br />
 
 ### Follow theses steps
 
-Open you Terminal and run this commands
+Open you Terminal and run this commands:
 
-`git clone https://github.com/JoseVitor-1337/it-logger.git` - to clone this repository
->
-> `cd it-logger` - to go to directory
->
-> `npm install` - to install all depêndecies
->
-> `npm run dev` - Finally! to start the site
+```
+git clone https://github.com/JoseVitor-1337/it-logger.git
+
+cd it-logger
+
+npm install
+
+npm run dev
+```
