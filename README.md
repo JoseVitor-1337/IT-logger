@@ -1,12 +1,14 @@
 # IT-Logger
 
+---
+
 ## Website to register IT employees and add records that would be their tasks
 
 ---
 
 ## Features and concepts used
 
-<span style="font-size:1.2em, color:red">Web</span>.
+<span style="font-size:1.1em">Web</span>.
 
 - React.js
 - React Hooks
@@ -32,7 +34,7 @@
 Open you Terminal and run this commands:
 
 ```
-git clone https://github.com/JoseVitor-1337/it-logger.git -
+git clone https://github.com/JoseVitor-1337/it-logger.git
 
 cd it-logger
 
