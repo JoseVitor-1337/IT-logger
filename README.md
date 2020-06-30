@@ -6,7 +6,7 @@
 
 ## Features and concepts used
 
-<span style="font-size:1.2em">Web</span>.
+<span style="font-size:1.2em, color:red">Web</span>.
 
 - React.js
 - React Hooks
