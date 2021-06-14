@@ -1,12 +1,6 @@
 # IT-Logger
 
----
-
 ## Website to register IT employees and add records that would be their tasks
-
-![It-Logger-System](https://github.com/JoseVitor-1337/it-logger/blob/master/interface.png)
-
----
 
 ## Features and concepts used
 
