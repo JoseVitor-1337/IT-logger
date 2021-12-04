@@ -1,8 +1,6 @@
 # IT-Logger
 
-## Website to register IT employees and add records that would be their tasks
-
-## Features and concepts used
+### Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
 
