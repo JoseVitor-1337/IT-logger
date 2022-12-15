@@ -9,11 +9,7 @@
 - Redux
 - json-server API
 
-<br />
-
 ## How do I start this site?
-
-<br />
 
 ### Prerequisites
 
@@ -21,7 +17,6 @@
 
 > Need have **git** installed [Go Here to install](https://git-scm.com/downloads)
 
-<br />
 
 ### Follow theses steps
 
